@@ -1,0 +1,29 @@
+*{
+	padding:0;
+	margin:0;
+}
+.wrapper{
+	background:url("https://t4.ftcdn.net/jpg/01/93/81/35/360_F_193813506_U6Uty1ijC2gVk5M3GKh4prsW0CTZDYWX.jpg")no-repeat;
+	background-size:cover;
+	height:120vh;
+	background-attachment:fixed,scroll;
+}
+.navbar{
+	height:80px;
+	width:100%;
+	background: rgba(0,0,0,0.4);
+}
+.navbar ul{
+	float :right;
+	margin-right:20px
+}
+.navbar ul li{
+	list-style:none;
+	margin:0.8px;
+	display:inline-block;
+	line-height:90px;
+}
+.navbar ul li a{
+ text-decoration:none;
+ color:white;
+}
